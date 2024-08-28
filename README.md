@@ -8,7 +8,7 @@
 
 A) Install Homebrew
 B) Download the Dart SDK= ANSWER
-C) Update your PATH
+C) Update your PATH 
 D) Run Dart Doctor
 
 
